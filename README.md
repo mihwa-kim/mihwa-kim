@@ -9,7 +9,7 @@ When I'm not working or reading, I like to spend my hours actively running, hiki
 - Python: OpenCV, Pandas, NumPy, scikit-learn, matplotlib, TensorFlow
 - SQL: Data wrangling using MySQL and Microsoft SQL Server
 - Data Visualization: MS Excel, Tableau, Microsoft Power BI
-- Statistical Analysis: Hypothesis Testing (A/B Testing), SPSS, MATLAB
+- Statistical Analysis: Hypothesis Testing (A/B Testing)
 ### Machine Learning
 - Supervised Learning: KNN, Random Forest, Regression Analysis, General Linear Models, Naïve Bayes Classifiers, Gradient Descent
 - Unsupervised Learning: K-means, PCA, Clustering
