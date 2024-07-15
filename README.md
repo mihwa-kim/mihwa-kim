@@ -2,7 +2,7 @@
 
 I have strong skills in team collaboration and data analysis, allowing me to transform raw data into valuable insights that can drive efficient decision-making. In addition to this, I have over three years of experience in marketing, e-commerce, and production, demonstrating my versatility and broad skill set.
 
-When I'm not working or reading, I like to spend my hours actively running, hiking, and tinkering on data science projects.
+When I'm not working or reading, I like to spend my hours actively running, hiking, and tinkering on data projects.
 
 ## Skills and Expertise
 ### Data Manipulation & Modeling
